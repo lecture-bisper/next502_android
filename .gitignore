@@ -15,7 +15,7 @@ out/
 .settings
 .springBeans
 .sts4-cache
-bin/
+# bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
@@ -27,7 +27,7 @@ bin/
 .settings
 .springBeans
 .sts4-cache
-bin/
+# bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
@@ -74,7 +74,7 @@ build/
 *.zip
 
 
-# Miscellaneous
+### Flutter 설정 ###
 !**/*.class
 !**/*.log
 !**/*.pyc
