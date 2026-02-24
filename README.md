@@ -18,3 +18,7 @@
 	2. Android : Dart 기본 문법(if, if ~ else, else if, switch ~ case, if ~ case)
 	3. Android : Dart 기본 문법(while, do ~ while, for, for ~ in, 리스트 컴프리헨션)
 	4. Android : Dart 기본 문법(함수, 포지션 매개변수, 네임드 매개변수, 기본값 매개변수, 화살표 함수, 익명함수, typedef)
+4. 4일차
+	1. Android : Dart 기본 문법 (예외처리)
+	2. Android : Dart 객체 지향 (클래스, 생성자, 네임드 생성자, private 변수, getter/setter)
+	3. Android : Dart 문제 제출 및 풀이
