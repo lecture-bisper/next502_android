@@ -104,6 +104,19 @@ void main() {
   pizza.order();
 
   print('\n----- 문제 9 -----\n');
+  Book book1 = Book("코드 팩토리의 플러터", "코드 팩토리");
+  book1.borrowBook();
+
+  Book book2 = Book("자바", "김자바");
+  book2.isAvailable = false;
+  book2.borrowBook();
+
+  print('\n----- 문제 10 -----\n');
+  CoffeeOrder coffee1 = CoffeeOrder(menu: "아메리카노", price: 1500, isIced: false);
+  CoffeeOrder coffee2 = CoffeeOrder(menu: "콜드브루", price: 2000, isIced: true);
+
+  coffee1.printReceipt();
+  coffee2.printReceipt();
 }
 
 int multi(int x, int y) {
@@ -173,3 +186,24 @@ class Book {
 // 모든 필드를 이름 있는 매개변수로 받는 기본 생성자 작성.
 // CoffeeOrder.hot(String menu, int price) 네임드 생성자 (isIced를 false로 고정).
 // printReceipt() 메서드 (메뉴와 가격을 출력하고, 아이스인 경우 "[ICE]" 문구를 추가 출력).
+
+class CoffeeOrder {
+  // 멤버 변수 선언
+  final String menu;
+  final int price;
+  final bool isIced;
+
+  // 생성자, 네임드 매개변수 방식
+  CoffeeOrder({required this.menu, required this.price, required this.isIced});
+
+  // 네임드 생성자, 네임드 매개변수 방식
+  CoffeeOrder.hot({required this.menu, required this.price}) : isIced = false;
+
+  void printReceipt() {
+    String ice = "";
+    if (isIced == true) {
+      ice = "[ICE]";
+    }
+    print("$ice $menu : $price원");
+  }
+}

@@ -22,3 +22,7 @@
 	1. Android : Dart 기본 문법 (예외처리)
 	2. Android : Dart 객체 지향 (클래스, 생성자, 네임드 생성자, private 변수, getter/setter)
 	3. Android : Dart 문제 제출 및 풀이
+5. 5일차
+	1. Android : Dart 문제 풀이, Dart 객체 지향 (copyWith 기법, 클래스 상속, 오버라이딩, 인터페이스)
+	2. Android : Dart 객체 지향 (mixin, 추상클래스, 추상메소드, 캐스케이드 연산자, static)
+	3. Android : Dart 비동기 프로그래밍 (Future, async, await, stream, 레코드)
