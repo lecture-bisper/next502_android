@@ -26,3 +26,9 @@
 	1. Android : Dart 문제 풀이, Dart 객체 지향 (copyWith 기법, 클래스 상속, 오버라이딩, 인터페이스)
 	2. Android : Dart 객체 지향 (mixin, 추상클래스, 추상메소드, 캐스케이드 연산자, static)
 	3. Android : Dart 비동기 프로그래밍 (Future, async, await, stream, 레코드)
+6. 6일차
+	1. Android : Dart 3.0 버전 신기술 (구조분해할당, 스프레드 연산자, Map 의 구조분해할당, Record 의 구조 분해 할당, 클래스의 구조 분해 할당)
+	2. Android : Dart 3.0 버전 신기술 (switch 표현식, switch ~ case 패턴 매칭, switch ~ case 엄격한 조건 검사, switch ~ case 보호 구문)
+	3. Android : Dart 3.0 버전 신기술 (클래스 제한자, base, final, interface, sealed)
+	4. Android : Flutter (플러터 앱 프로젝트 생성, 위젯이란, child/children 속성, TextButton, OutlinedButton, ElevatedButton, GestureDetector, FloatingActionButton)
+	
