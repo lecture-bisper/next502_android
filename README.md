@@ -31,4 +31,16 @@
 	2. Android : Dart 3.0 버전 신기술 (switch 표현식, switch ~ case 패턴 매칭, switch ~ case 엄격한 조건 검사, switch ~ case 보호 구문)
 	3. Android : Dart 3.0 버전 신기술 (클래스 제한자, base, final, interface, sealed)
 	4. Android : Flutter (플러터 앱 프로젝트 생성, 위젯이란, child/children 속성, TextButton, OutlinedButton, ElevatedButton, GestureDetector, FloatingActionButton)
+7. 7일차
+	1. Android : Flutter (위젯 - Container, SizedBox, Padding, margin속성, SafeArea)
+	2. Android : Flutter (배치 위젯 - Row, Column, Flexible, Expanded, Stack, 화면 그리기 문제)
+	3. Android : Flutter (플러터 앱 만들기, 이미지 등록)
+	4. Android : Flutter (스플래시 스크린 앱 완성)
+	5. Android : Flutter (웹뷰 블로그 앱 프로젝트 생성)
+	6. Android : Flutter (웹뷰 블로그 앱 : 웹뷰 라이브러리 추가, 안드로이드 및 IOS 인터넷 사용 설정 추가)
+	7. Android : Flutter (스플레시 이미지 앱, 웹뷰 블로그 앱 : 웹뷰 사용 설정)
+8. 8일차
+	1. Android : Flutter (StatelessWidget, StatefulWidget, 생명주기 함수)
+	2. Android : Flutter (이미지 캐러셀 앱)
+	3. Android : Flutter (DDay 앱)
 	
