@@ -43,4 +43,6 @@
 	1. Android : Flutter (StatelessWidget, StatefulWidget, 생명주기 함수)
 	2. Android : Flutter (이미지 캐러셀 앱)
 	3. Android : Flutter (DDay 앱)
-	
+9. 9일차
+	1. Android : Flutter (동영상 플레이 앱)
+	2. Android : Flutter (가속도 센서를 이용한 주사위 앱)
